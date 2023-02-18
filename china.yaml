@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Experiment2YOLOV5/FINAL2/images/train/
+val:  /content/drive/MyDrive/Experiment2YOLOV5/FINAL2/images/val/
+test: /content/drive/MyDrive/Experiment2YOLOV5/FINAL2/images/test/
+
+
+nc: 5
+names: ['D00','D10','D20','Repair','D40','collapse']
